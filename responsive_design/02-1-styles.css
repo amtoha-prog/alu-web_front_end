@@ -333,6 +333,12 @@ width: calc((100% / 2) - 2rem);
   }
 }
 
+ul.row,
+ .row {
+  flex-direction: column;
+  margin: 0;
+}
+
 /* Navbar
 
 ============================= */
