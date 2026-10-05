@@ -347,7 +347,6 @@ ul.row,
   .col-1-2 {
     width: 100%;
   }
-}
 /* Navbar
 
 ============================= */
@@ -437,7 +436,11 @@ width: 100%;
 
 }
 
-
+@media (max-width: 767px) {
+  .navbar-menu {
+    display: none;
+  }
+}
 /* Header
 
 ============================= */
