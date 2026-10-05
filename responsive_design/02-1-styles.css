@@ -270,7 +270,7 @@ white-space: nowrap;
 
 .container {
 
-width: 960px;
+max-width: 960px;
 
 margin-left: auto;
 
@@ -556,7 +556,7 @@ margin: var(--section-tagline-margin);
 padding: var(--section-body-padding);
 
 }
-F
+
 
 .section-footer {
 
