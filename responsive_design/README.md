@@ -44,4 +44,4 @@ Making the Techium homepage responsive with HTML and CSS: flexible containers, m
 
 ## Author
 
-Liss ([amtoha-prog](https://github.com/amtoha-prog))
+Alissa Bonaventura Mtoha ([amtoha-prog](https://github.com/amtoha-prog))
